@@ -11,4 +11,5 @@ Coding agent challenge which write custom parsers for Bank statement PDF.
 
 2.Install dependencies
  ```
- pip install -r requirements.txt```
+ pip install pandas python-dotenv google-generativeai PyMuPDF camelot-py
+```
